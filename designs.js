@@ -8,8 +8,8 @@ const rowip = document.querySelector('#inputHeight');
 const columnip = document.querySelector('#inputWidth')
 
 /*
-    MakeGrid method is called when user Submits the Canvas height and width
-    to create a plain pixel canvas to work with.
+    MakeGrid method is called when user Submits height and width
+    to create a new pixel canvas to work with.
 */
 function makeGrid() {
     //CLears the canvas everytime user submits new height and width of canvas.
